@@ -6,5 +6,6 @@
   .place__image {
     margin: auto 0;
     width: 100vw;
+    overflow-x:hidden;
   }
 }
